@@ -1,6 +1,8 @@
 # Object Detection in Haze
 
-This project aims to perform object detection on images affected by haze using the YOLOv8 model. It includes a pipeline for dehazing images, applying gamma correction, and generating text files with object detection results.
+This project aims to perform object detection on images affected by haze using the YOLOv8 model. It includes a pipeline for dehazing images, applying gamma correction, and generating text files with object detection results. 
+
+This project was done as a submission for the 2024 CVPR UG2+ challenge under the Object detection in Haze track. 
 
 ## Table of Contents
 
@@ -56,12 +58,6 @@ Here are a few examples of the object detection results:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
 
 
 
