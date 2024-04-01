@@ -24,7 +24,7 @@ This project was done as a submission for the 2024 CVPR UG2+ challenge under the
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/object-detection-in-haze.git
+   git clone https://github.com/insertyourusernamehere/Zest.git
    ```
 
 2. Install the required dependencies:
